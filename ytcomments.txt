@@ -1,0 +1,91 @@
+people are getting the chance to learn deep learning with so much details just because of your efforts. thanks a lot
+best video
+sir we need only one epoch to get max acuracay , our trainable parameters is just trained by your examples
+very very thank you sir.
+thanks!
+thank you so much sir... you spent the whole night for this video and made this video too easy for us... keep it up sir.. and thanks a lottttttttt .... we student are thankful to have such kind of teacher in out hardworking journey....
+sir here what is meant by a2 matrix,is it means a group of training is going on or what?
+sir, you are a legend. i can never imagine that i can get this much of valuable content for free on internet.
+nitish sir&#39;s teaching = low bias and low variance, maximum accuracy in 1 epoch.. 💯💯
+trust me , teaching style is super super awesome .thank you sir
+thanks❤
+too much informative . thanks sir 😄.
+your teaching style and knowledge is way ahead....excellent.
+thanks!
+sir, i have a question from this lecture at the point when you find (del a2 / del z2 ) you directly wrote the answer.... a2=sigmoid of z2 .. how does its derivative equals a2(1-a2)...kindly, just explain a bit ere ...bcz i thought sigmoid is 1/(1+e^-z2)  ... just kindly clear me here..
+definitely it shows how hard work you did sir. you have no need to ask us to like and subscribe your channel. i do it every time before the start of video because i know, every video is extremely informative. begging your blessings.
+what an explanation. hats off sir
+hm jaan bhi denghy apkeliye, like tu kuch nai hai 😅😍
+sir, your ability to explain complex topics is exceptional. <br>❤❤❤
+thank you soooo much sir
+one of the best teachers by far . keep up the great work. its a priviledge to go through your lectures
+thank you so much sir 🙏🙏🙏
+exceptional!
+great explanation!
+sir !! make 2-3 videos in a week 🙏
+how are we going to justify (1,m) shape of dell/delb2 in case of batch_size=m, shouldnt it be (1,1)
+goat
+killer explanation👌
+crack it 🎇
+waah! sir kya samjaya hain! data science apse hi compele karege hum!<br>thank you!
+like and comment everyone to make this channel&#39;s reach wider and broader.
+u r everything for us sir
+1/m se multiply kyon karna padega sir, agar 1,m ki image hai to?
+sir , one doubt<br><br>in w1 when we are saying we have w1 metrics of 3 by 3  and these are the weights  ,  <br>so when we are updating the w1  values using gardient descent , so are we modifieg those fillter values only  . or that fillter values also have some diffrent w1 metrc which is actually modified . <br><br>bvz if i am doing convolution with some fillter , say an edge detectoer fillter  ,  then it is obvious that the value in that fillter should not chnge as by tht fillter i am trying to detect the edges .
+caa anyone please confirm me that after applying pooling of order 2 by 2 the obtained matrix is of order 3 by 3?
+gem
+god gifted teacher for us ai students. one in a million. krish naik sir also teaches, but nitish sir&#39;s explanation to the minutest detail so easily that it gets imprinted in the brain forever, no requirement of revising again. the topics are covered and explained so good that even a 12th pass student can also understand. may you live longer and keep teaching us this way.
+you’re best nitish sir❤️
+thank you so much  for beautifullly explaining such a hectic topic .
+why is his videos r so addicting ?
+great video
+you are god for me. like to banta h sir
+the way of explaining the topics is phenomenal.
+if ur videos are not in english, please put the language in the title
+done!
+help a lot.<br><br>thanks
+why do we multiply the formula by 1/m
+thank you so much sir from bottom of heart
+bro,try english,it helps many more people
+amazing explanation
+@campusx, should not the size of f remain (4, 1) even if we send in as mini-batch, as only 1 image will be passed in loop over the batch? have you written son, as you combined them to avoid loops?
+so if cost function is quadratic loss, all of the equation will change na ?
+thanks
+is cnn model trained for every pridiction of image classification? like for every prdiction model needs to trained
+super clear - thank u so much for such great content sir..
+what a beautiful explained sir
+excellent. so simple and easy to understand. keep it up dear.
+sir, please complete the series!!!
+i hope our comments/likes gives u motivation :)
+hats off to your efforts. :) iam watching daily
+best playlist
+best explanation on internet
+crisp <br>but had to watch 3 times to grasp such a heavy load of info😅<br>kudos to u sir
+enjoy your teaching style, all things to the point.
+too good
+respect &lt;3
+best explained.
+thank you sir🤩...for the amount of effort you put to make the complex topic very simpler
+helps us a lot
+my god...why isn&#39;t this channel&#39;s subscribers beyond million...u are exceptional sir...sajda karta hun aapko sir jhukake!
+big help❤❤❤
+thanks for your dedication to indian ai society
+one of the best explained playlists i&#39;ve experienced so far. hats off to teachers like you sir.
+sir , please complete this series .
+sir pls make a video on k fold cross validation<br>sir maine abhut saara video dekha par usme acche se explain nahi kiya gaya hai <br><br>aap ek video banao aur statistics par bhi video banao <br>apne playlist me dusre ka video daala hai <br><br>sir it&#39;s very important for me i am watching only your video , getting understand with your video only <br><br>humble request from honest student to best teacher
+finished watching
+hello sir please complete/upload more videos in the python series. thankyou.
+hello sir, would request you if you can make a video specific to &#39;dython&#39; library<br>thanks
+sir part 2
+please make some videos on onnx conversion as well as you have good knowledge and also explaining in detail which helps easy to understand. thanks
+sir, please start object detecion
+hi nitish,pls cover learning rate scheduler,call backs,tensorboard operations
+sir how to create rest api in python and java pr videos btaiye pllz
+finally i came to know how does  backpropagation in cnn,   thanks a lot ..
+bhai comments bhi ek baar dekh lo 😊
+just open youtube 😀 ki kahi sir ka video to nhi aa gaya
+thanks a lot sir , wanted a video on this topic 👍
+sir companies me humko khudse python codding karke karna hota machine learning stuff ya phir sklearn se kar sakte hai??
+best video sir
+chalo aaj 2nd hi sahi😄
+main first
